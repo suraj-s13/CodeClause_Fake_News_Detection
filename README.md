@@ -50,3 +50,4 @@ The TfidfVectorizer converts a collection of raw documents into a matrix of TF-I
 Passive Aggressive algorithms are online learning algorithms. Such an algorithm remains passive for a correct classification outcome, and turns aggressive in the event of a miscalculation, updating and adjusting. Unlike most other algorithms, it does not converge. Its purpose is to make updates that correct the loss, causing very little change in the norm of the weight vector.
 
 #
+Updated on 2025-02-02 09:44:03
